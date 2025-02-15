@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dimri</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm passionate about software development and actively exploring the fields of **Artificial Intelligence (AI)** and **Machine Learning (ML)**. I enjoy working on innovative projects, improving my skills in **Data Structures and Algorithms (DSA)**, and collaborating on exciting ideas.</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm passionate about software development and actively exploring the fields of Artificial Intelligence (AI) and Machine Learning (ML). I enjoy working on innovative projects, improving my skills in Data Structures and Algorithms (DSA), and collaborating on exciting ideas.</h3>
 
 ---
 
